@@ -5,7 +5,7 @@
 ░░█ █░░█ ░█░ █▄▄█ █░░ █ ▀█ ▀▀▀█<br>
 █▄█ ▀▀▀▀ ░▀░ ▀░░▀ ▀▀▀ ▀▀▀▀ ▀▀▀▀<br>
 </h2>
-<h1 align="center">Hi 👋, I'm Ignacio Peralta</h1>
+<h1 align="center">Hi 👋, I'm Jose Pedro</h1>
 
 
 [![Linkedin: jose](https://img.shields.io/badge/-jose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-pedro-gil-suarez-29b6b021a/)](https://www.linkedin.com/in/jose-pedro-gil-suarez-29b6b021a/)
