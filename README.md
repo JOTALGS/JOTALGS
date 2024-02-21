@@ -1,9 +1,9 @@
 <div align="center">
 <h2><img src="https://slackmojis.com/emojis/5584-deployparrot/download" width="30"/> Hi I am
 <br>
-    █ █▀▀█ ▀█▀ █▀▀█ █   █▀▀▀ █▀▀▀<br>
-  █ █  █  █  █▄▄█ █   █ ▀█ ▀▀▀█<br>
-█▄█ ▀▀▀▀  ▀  ▀  ▀ ▀▀▀ ▀▀▀▀ ▀▀▀▀</h2>
+░░█ █▀▀█ ▀█▀ █▀▀█ █░░ █▀▀▀ █▀▀▀<br>
+░░█ █░░█ ░█░ █▄▄█ █░░ █ ▀█ ▀▀▀█<br>
+█▄█ ▀▀▀▀ ░▀░ ▀░░▀ ▀▀▀ ▀▀▀▀ ▀▀▀▀</h2>
 
 
 [![Linkedin: jose](https://img.shields.io/badge/-jose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-pedro-gil-suarez-29b6b021a/)](https://www.linkedin.com/in/jose-pedro-gil-suarez-29b6b021a/)
