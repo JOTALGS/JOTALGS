@@ -6,9 +6,9 @@
 █▄█ ▀▀▀▀  ▀  ▀  ▀ ▀▀▀ ▀▀▀▀ ▀▀▀▀</h2>
 
 
-[![Linkedin: jgnacio](https://img.shields.io/badge/-jgnacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jgnacio-p-singh/)](https://www.linkedin.com/in/jgnaciogomez/)
-![GitHub followers](https://img.shields.io/github/followers/jgnacio?label=Follow&style=social)
-![](https://komarev.com/ghpvc/?username=jgnacio&style=for-the-badge&color=red)
+[![Linkedin: jose](https://img.shields.io/badge/-jose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-pedro-gil-suarez-29b6b021a/)](https://www.linkedin.com/in/jose-pedro-gil-suarez-29b6b021a/)
+![GitHub followers](https://img.shields.io/github/followers/jotalgs?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=jotalgs&style=for-the-badge&color=red)
 </div>
 
 <div align="center">
@@ -21,10 +21,10 @@
 <br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Talwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br />
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
