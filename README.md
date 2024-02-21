@@ -1,7 +1,7 @@
 <div align="center">
 <h2><img src="https://slackmojis.com/emojis/5584-deployparrot/download" width="30"/> Hi I am
 <br>
-  █ █▀▀█ ▀█▀ █▀▀█ █   █▀▀▀ █▀▀▀<br>
+    █ █▀▀█ ▀█▀ █▀▀█ █   █▀▀▀ █▀▀▀<br>
   █ █  █  █  █▄▄█ █   █ ▀█ ▀▀▀█<br>
 █▄█ ▀▀▀▀  ▀  ▀  ▀ ▀▀▀ ▀▀▀▀ ▀▀▀▀</h2>
 
