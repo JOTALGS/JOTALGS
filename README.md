@@ -41,7 +41,7 @@
 <h2 align="center">  GitHub stats </h2>
  <br />
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jotalgs&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="jgnacio" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotalgs&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,html,php" alt="jgnacio" />
- <img src="https://github-readme-streak-stats.herokuapp.com?user=jotalgs&theme=onedark&hide_border=true&background=FFFFFF00" alt="jgnacio" />
+ <img src="https://github-readme-stats.vercel.app/api?username=jotalgs&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="jotalgs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotalgs&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,html,php" alt="jotalgs" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=jotalgs&theme=onedark&hide_border=true&background=FFFFFF00" alt="jotalgs" />
 </p>
